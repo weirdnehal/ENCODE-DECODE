@@ -51,10 +51,10 @@
 ```
 INSTALLATION : (Linux/Win)
 
-git clone https://github.com/isuruwa/HASHME
-cd HASHME
+git clone https://github.com/weirdnehal/ENCODE-DECODE
+cd ENCODE-DECODE
 pip3 install -r requirements.txt
-python3 hashme.py
+python3 ENCODE-DECODE.py
 
 ```
 
