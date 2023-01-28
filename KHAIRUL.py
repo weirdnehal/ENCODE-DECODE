@@ -16,10 +16,10 @@ from Crypto.Hash import MD2, MD4
 
 ########################### BEGIN ###########################
 def author():
-	print("   \033[37m[\033[31m|\033[37m]|------------------------------------------------|\033[37m[\033[31m|\033[37m]")
-	print("   \033[37m[\033[31m|\033[37m]|          DEVELOPER BY DEVIL MASTER             |\033[37m[\033[31m|\033[37m]")
-	print("   \033[37m[\033[31m|\033[37m]|              github.com/weirdnehal             |\033[37m[\033[31m|\033[37m]")
-	print("   \033[37m[\033[31m|\033[37m]|------------------------------------------------|\033[37m[\033[31m|\033[37m]\n")
+	print("   \033[37m╔═════════════════════════════════════════════╗")
+	print("   \033[37m║              DEVELOPER BY NEHAL AHMED               ║")
+	print("   \033[37m║   weirdnehal.blogspot.com | github.com/weirdnehal   ║")
+	print("   \033[37m╚═════════════════════════════════════════════╝\n")
 
 if sys.version_info[0] < 3:
     versao = python_version()
