@@ -17,8 +17,8 @@ from Crypto.Hash import MD2, MD4
 ########################### BEGIN ###########################
 def author():
 	print("   \033[37m╔═════════════════════════════════════════════╗")
-	print("   \033[37m║              DEVELOPER BY NEHAL AHMED               ║")
-	print("   \033[37m║   weirdnehal.blogspot.com | github.com/weirdnehal   ║")
+	print("   \033[37m║              \033[1;34mDEVELOPER BY NEHAL AHMED               \033[37m║")
+	print("   \033[37m║   \033[1;33mweirdnehal.blogspot.com | github.com/weirdnehal   \033[37m║")
 	print("   \033[37m╚═════════════════════════════════════════════╝\n")
 
 if sys.version_info[0] < 3:
