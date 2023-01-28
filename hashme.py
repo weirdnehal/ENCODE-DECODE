@@ -1,6 +1,4 @@
-#!/usr/bin/env python
-#coding: utf-8
-#AUTHOR : DEVIL MASTER
+
 
 import hashlib
 from base64 import *
@@ -18,7 +16,7 @@ from Crypto.Hash import MD2, MD4
 def author():
 	print("   \033[37m[\033[31m|\033[37m]|------------------------------------------------|\033[37m[\033[31m|\033[37m]")
 	print("   \033[37m[\033[31m|\033[37m]|          DEVELOPED BY DEVIL MASTER             |\033[37m[\033[31m|\033[37m]")
-	print("   \033[37m[\033[31m|\033[37m]|              github.com/isuruwa                |\033[37m[\033[31m|\033[37m]")
+	print("   \033[37m[\033[31m|\033[37m]|              github.com/DEVIL                |\033[37m[\033[31m|\033[37m]")
 	print("   \033[37m[\033[31m|\033[37m]|------------------------------------------------|\033[37m[\033[31m|\033[37m]\n")
 
 if sys.version_info[0] < 3:
@@ -54,7 +52,7 @@ def re(reb, again):
 
 ########################### MENU ###########################
 def menu():
-    banner("""       HASHME\n""")
+    banner("""       DEVIL\n""")
     print("\033[35m  [\033[37m1\033[35m]\033[37m  ENCODE MD2")
     print("\033[35m  [\033[37m2\033[35m]\033[36m  ENCODE MD4")
     print("\033[35m  [\033[37m3\033[35m]\033[1;32m  Encode MD5")
