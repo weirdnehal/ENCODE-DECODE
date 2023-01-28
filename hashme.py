@@ -52,7 +52,7 @@ def re(reb, again):
 
 ########################### MENU ###########################
 def menu():
-    banner("""       DEVIL\n""")
+    banner("""       NEHAL\n""")
     print("\033[35m  [\033[37m1\033[35m]\033[37m  ENCODE MD2")
     print("\033[35m  [\033[37m2\033[35m]\033[36m  ENCODE MD4")
     print("\033[35m  [\033[37m3\033[35m]\033[1;32m  Encode MD5")
