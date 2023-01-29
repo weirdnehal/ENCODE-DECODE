@@ -8,12 +8,12 @@
 * [+] Encode SHA224
 * [+] Encode SHA256
 * [+] Encode SHA384
-* [+] Encode|Decode SHA512
-* [+] Encode|Decode BASE64
-* [+] Encode|Decode BINARY
-* [+] Encode|Decode CIPHER OF CESAR
-* [+] Encode|Decode HEXADECIMAL
-* [+] Encode|Decode REVERSE
+* [+] Encode | Decode SHA512
+* [+] Encode | Decode BASE64
+* [+] Encode | Decode BINARY
+* [+] Encode | Decode CIPHER OF CESAR
+* [+] Encode | Decode HEXADECIMAL
+* [+] Encode | Decode REVERSE
 
 ### NEWLY ADDED
 
