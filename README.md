@@ -14,7 +14,7 @@
 
 ### NEHAL is a python based script to encode & decode desired  hash texts .
 
-## FEATURES : <img src="https://img.icons8.com/fluency/48/000000/hashtag.png"/>
+### FEATURES :
 
 * Encode MD5
 * Encode SHA1
@@ -28,7 +28,7 @@
 * Encode|Decode HEXADECIMAL
 * Encode|Decode REVERSE
 
-## Newly Added
+### Newly Added
 
 * MD2
 * MD4
@@ -37,19 +37,16 @@
 * SHA3-512
 
 
-## TESTED PLATFORMS : <img src="https://img.icons8.com/fluency/48/000000/hashtag.png"/>
+### TESTED PLATFORMS :
 
 * Kali Linux
 * Parrot os 
 * Windows
 * Termux
 
-<br>
-<p align="center">
-<img src="https://img.icons8.com/emoji/200/000000/keycap-number-sign-emoji.png"/>
   
 ```
-INSTALLATION : (Linux/Win)
+INSTALLATION : (Linux/Win/Termux)
 
 git clone https://github.com/weirdnehal/ENCODE-DECODE
 cd ENCODE-DECODE
