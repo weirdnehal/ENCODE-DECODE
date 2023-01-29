@@ -12,7 +12,7 @@
 </p>
 <br>
 
-# NEHAL is a python based script to encode & decode desired  hash texts . <img src="https://img.icons8.com/fluency/48/000000/hashtag.png"/>
+### NEHAL is a python based script to encode & decode desired  hash texts .
 
 ## FEATURES : <img src="https://img.icons8.com/fluency/48/000000/hashtag.png"/>
 
