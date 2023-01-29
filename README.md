@@ -1,7 +1,6 @@
 
 
-### NEHAL is a python based script to encode & decode desired  hash texts .
-
+### PYTHON BASED SCRIPT TO ENCODE & DECODE DESIRED HASH TEXTS.
 ### FEATURES :
 
 * [+] Encode MD5
