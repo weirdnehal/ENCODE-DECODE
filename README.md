@@ -16,7 +16,7 @@
 * [+] Encode|Decode HEXADECIMAL
 * [+] Encode|Decode REVERSE
 
-### Newly Added
+### NEWLY ADDED
 
 * [+] MD2
 * [+] MD4
@@ -44,7 +44,7 @@ python3 ENCODE-DECODE.py
 
 ```
 
-### Contact :
+### CONTACT :
 For Any Help or Suggestions, Contact With Us:
 <li> Via <a href="mailto: misterweird10@gmail.com">Email</a>
   
